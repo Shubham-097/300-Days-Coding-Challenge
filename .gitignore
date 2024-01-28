@@ -1,0 +1,35 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cdac/c-dac dums/ccee/Java
+/Cdac/c-dac dums/ccee/_.Net/asp.net/1Asp_Net Interview Questions And Answers_files
+/Cdac/c-dac dums/ccee/_.Net
+/Cdac
+/New folder
+*.suo
+/scalar/ConsoleApp6/bin/Debug/net6.0
+/scalar/ConsoleApp6/obj/Debug/net6.0/ref/ConsoleApp6.dll
+/scalar/ConsoleApp6/obj/Debug/net6.0/refint/ConsoleApp6.dll
+/scalar/ConsoleApp6/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/scalar/ConsoleApp6/obj/Debug/net6.0/apphost.exe
+/scalar/ConsoleApp6/obj/Debug/net6.0
+/scalar/ConsoleApp6/obj
+/scalar/_______1__Dare_70_DREAM.pdf
+/scalar/maang-engineer.jpg.webp
+/scalar/ConsoleApp6.sln
+/scalar/Arrays___Dynamic_Arrays.pdf
+/Snippets
+/~$mnya ppt.pptx
+/wsdldefinitions xmlnstm=httpmicroso.wsdl
+/wallpare.png
+/Sample WSDL document.html
+/Microsoft Edge.lnk
+/Jitanshu'sResume.pdf
+/IMG_20230715_210519.jpg
+/IMG_20230715_203118.jpg
+/Eclipse IDE for Java Developers - 2021-12.lnk
+/download.png
+/desktop.ini
+/Array.txt
+/scalar/.vs/ConsoleApp6/FileContentIndex
